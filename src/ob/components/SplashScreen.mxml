@@ -162,7 +162,7 @@ THE SOFTWARE.
                       color="0xCCCCCC"
                       shadowColor="0x535353"
                       fontSize="12"
-                      text="dbko-inferno.pl"/>
+                      text="https://rangersarcani.pl"/>
 
     <nail:ShadowLabel id="statusDisplay"
                       left="10"

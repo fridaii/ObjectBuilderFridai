@@ -2666,7 +2666,7 @@ THE SOFTWARE.
                                        dragEnabled="true"
                                        fontSize="11"
                                        borderAlpha="0"
-                                       contentBackgroundColor="0x494949"
+                                       contentBackgroundColor="0x004882"
                                        requireSelection="true"
                                        change="spritesListChangeHandler(event)"
                                        copy="onCopySprite()"

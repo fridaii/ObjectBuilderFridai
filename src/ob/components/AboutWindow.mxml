@@ -145,14 +145,14 @@
         <s:Label text="Supported By:" />
 
         <mx:LinkButton id="dbrButton"
-                  label="dbko-inferno.pl"
+                  label="https://rangersarcani.pl"
                   fontWeight="bold"
                   fontSize="18"
                   color="0x03fcd7"
                   click="dbrButtonClickHandler(event)" />
 
         <mx:LinkButton id="otpButton"
-                  label="otpokemon.com"
+                  label="https://rangersarcani.pl"
                   fontWeight="bold"
                   fontSize="18"
                   color="0xe3d10a"
